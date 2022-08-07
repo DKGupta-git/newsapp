@@ -17,6 +17,13 @@ function App() {
         >
           Learn React
         </a>
+        <p>1. export and import :
+
+         {/* export default val;
+         export {val};
+         import valu1 ,{val}from './dbc.js';
+          */}
+        </p>
       </header>
     </div>
   );
