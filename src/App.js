@@ -4,7 +4,7 @@ import News from './components/News';
 import LoadingBar from 'react-top-loading-bar'
 // import PropTypes from 'prop-types'
 import {
-  BrowserRouter as Router,
+  HashRouter as Router,
   Routes,
   Route
 } from "react-router-dom";
